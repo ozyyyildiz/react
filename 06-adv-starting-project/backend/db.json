@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1741696546360,
+      "votes": 2,
+      "userName": "Ozan",
+      "title": "OpinionBoard",
+      "body": "OpinionBoardOpinionBoardOpinionBoardOpinionBoardOpinionBoardOpinionBoardOpinionBoard"
+    },
+    {
+      "id": 1741696239005,
+      "votes": 5,
+      "userName": "Ozan",
+      "title": "Hello There",
+      "body": "Obi-Wan Kenobi: Hello There!\n\nGeneral Grevious: GENERAL KENOBI!"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 1
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
